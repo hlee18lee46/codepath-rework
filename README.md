@@ -32,6 +32,10 @@ GIF created with ... LiceCap
 
 Describe any challenges encountered while building the app.
 
+Getting to know the Mac environment was challenging overall for me as I mostly use Windows. I still haven't figured out the keyboard short-cut for copy and paste. 
+
+Another challenging part was to recognize where to put the code in. 
+
 ## License
 
     Copyright [2023] [Han Lee]
@@ -47,3 +51,10 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## Brainstorming
+
+Favorite Apps: Weverse, Microsoft Teams, Whatsapp, Mcdonald's app.
+
+Features I like: The ability to make posts and communication process with artists. I like the notification of my posts being liked (Weverse), The ability to chat and calls (Teams, Whatsapp), The ability to check in based on the users location after making the order at the designated Mcdonald's location (Mcdonald's app).
+
