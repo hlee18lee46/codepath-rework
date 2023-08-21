@@ -28,6 +28,10 @@ GIF created with ... LiceCap
 
 ## App Brainstorming (Step 4)
 
+Favorite Apps: Weverse, Microsoft Teams, Whatsapp, Mcdonald's app.
+
+Features I like: The ability to make posts and communication process with artists. I like the notification of my posts being liked (Weverse), The ability to chat and calls (Teams, Whatsapp), The ability to check in based on the users location after making the order at the designated Mcdonald's location (Mcdonald's app).
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -52,9 +56,6 @@ Another challenging part was to recognize where to put the code in.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-## Brainstorming
 
-Favorite Apps: Weverse, Microsoft Teams, Whatsapp, Mcdonald's app.
 
-Features I like: The ability to make posts and communication process with artists. I like the notification of my posts being liked (Weverse), The ability to chat and calls (Teams, Whatsapp), The ability to check in based on the users location after making the order at the designated Mcdonald's location (Mcdonald's app).
 
